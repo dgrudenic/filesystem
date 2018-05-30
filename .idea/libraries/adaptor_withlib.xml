@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="adaptor-withlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/plexi/build/dist/adaptor/adaptor-withlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/plexi/build/dist/adaptor/adaptor-withlib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
