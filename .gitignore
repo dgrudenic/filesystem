@@ -2,6 +2,7 @@
 build/
 dist/
 out/
+plexi/
 #adaptor-config.properties
 #build.properties
 cacerts.jks
