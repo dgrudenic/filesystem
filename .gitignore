@@ -13,7 +13,7 @@ gsa.crt
 # IntelliJ files
 workspace/
 classes/
-.idea
+#.idea
 Plexi.iml
 
 # NetBeans files
